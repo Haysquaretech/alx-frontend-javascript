@@ -1,1 +1,1 @@
-This is Typescript project in alxt
+This is Typescript project in alx
